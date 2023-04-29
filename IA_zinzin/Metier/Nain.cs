@@ -25,5 +25,26 @@ namespace IA_zinzin.Metier
         /// </summary>
         private Case coordonnees;
 
+        /// <summary>
+        /// Numero de nain
+        /// </summary>
+        public int ID
+        { 
+            get { return id; } 
+            set { id = value; } 
+        }
+
+        public int Pioche
+        { get { return pioche; } set { pioche = value; } }
+
+        public Case Coordonnees
+        { get { return coordonnees; } }
+
+        public Nain() 
+        {
+
+            
+        }
+
     }
 }
