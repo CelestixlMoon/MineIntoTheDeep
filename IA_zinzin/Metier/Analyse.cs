@@ -12,5 +12,7 @@ namespace IA_zinzin.Analyse
         List<Nain> groupe;
 
 
+
+
     }
 }

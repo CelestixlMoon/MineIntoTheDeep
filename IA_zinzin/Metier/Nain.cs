@@ -40,10 +40,16 @@ namespace IA_zinzin.Metier
         public Case Coordonnees
         { get { return coordonnees; } }
 
-        public Nain() 
-        {
 
-            
+        /// <summary>
+        /// Constructeur de nain
+        /// </summary>
+        /// <param name="id">numero du nain</param>
+        /// <param name="coordonnees">coordonnée du nain</param>
+        public Nain(int id, Case coordonnees) 
+        {
+            this.id = id;
+            this.coordonnees= coordonnees;                        
         }
 
     }
