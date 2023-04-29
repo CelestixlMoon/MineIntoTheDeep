@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\exaom\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\OneDrive - Université de Bourgogne\\Documents\\IUT\\24h IUT 2023\\IA\\MineIntoTheDeep\\IA_zinzin\\IA_zinzin.csproj",
+      "projectUniqueName": "C:\\Users\\exaom\\Documents\\GitHub\\MineIntoTheDeep\\IA_zinzin\\IA_zinzin.csproj",
       "projectName": "IA_zinzin",
-      "projectPath": "C:\\Users\\Admin\\OneDrive - Université de Bourgogne\\Documents\\IUT\\24h IUT 2023\\IA\\MineIntoTheDeep\\IA_zinzin\\IA_zinzin.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\OneDrive - Université de Bourgogne\\Documents\\IUT\\24h IUT 2023\\IA\\MineIntoTheDeep\\IA_zinzin\\obj\\",
+      "projectPath": "C:\\Users\\exaom\\Documents\\GitHub\\MineIntoTheDeep\\IA_zinzin\\IA_zinzin.csproj",
+      "packagesPath": "C:\\Users\\exaom\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\exaom\\Documents\\GitHub\\MineIntoTheDeep\\IA_zinzin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\exaom\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
