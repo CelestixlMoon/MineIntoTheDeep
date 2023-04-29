@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive - Université de Bourgogne\Documents\IUT\24h IUT 2023\IA\MineIntoTheDeep\IA_zinzin\bin\Debug\net6.0\IA_zinzin.exe
+C:\Users\Admin\OneDrive - Université de Bourgogne\Documents\IUT\24h IUT 2023\IA\MineIntoTheDeep\IA_zinzin\bin\Debug\net6.0\IA_zinzin.deps.json
+C:\Users\Admin\OneDrive - Université de Bourgogne\Documents\IUT\24h IUT 2023\IA\MineIntoTheDeep\IA_zinzin\bin\Debug\net6.0\IA_zinzin.runtimeconfig.json
+C:\Users\Admin\OneDrive - Université de Bourgogne\Documents\IUT\24h IUT 2023\IA\MineIntoTheDeep\IA_zinzin\bin\Debug\net6.0\IA_zinzin.dll
+C:\Users\Admin\OneDrive - Université de Bourgogne\Documents\IUT\24h IUT 2023\IA\MineIntoTheDeep\IA_zinzin\bin\Debug\net6.0\IA_zinzin.pdb
+C:\Users\Admin\OneDrive - Université de Bourgogne\Documents\IUT\24h IUT 2023\IA\MineIntoTheDeep\IA_zinzin\obj\Debug\net6.0\IA_zinzin.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Université de Bourgogne\Documents\IUT\24h IUT 2023\IA\MineIntoTheDeep\IA_zinzin\obj\Debug\net6.0\IA_zinzin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Université de Bourgogne\Documents\IUT\24h IUT 2023\IA\MineIntoTheDeep\IA_zinzin\obj\Debug\net6.0\IA_zinzin.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Université de Bourgogne\Documents\IUT\24h IUT 2023\IA\MineIntoTheDeep\IA_zinzin\obj\Debug\net6.0\IA_zinzin.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Université de Bourgogne\Documents\IUT\24h IUT 2023\IA\MineIntoTheDeep\IA_zinzin\obj\Debug\net6.0\IA_zinzin.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Université de Bourgogne\Documents\IUT\24h IUT 2023\IA\MineIntoTheDeep\IA_zinzin\obj\Debug\net6.0\IA_zinzin.dll
+C:\Users\Admin\OneDrive - Université de Bourgogne\Documents\IUT\24h IUT 2023\IA\MineIntoTheDeep\IA_zinzin\obj\Debug\net6.0\refint\IA_zinzin.dll
+C:\Users\Admin\OneDrive - Université de Bourgogne\Documents\IUT\24h IUT 2023\IA\MineIntoTheDeep\IA_zinzin\obj\Debug\net6.0\IA_zinzin.pdb
+C:\Users\Admin\OneDrive - Université de Bourgogne\Documents\IUT\24h IUT 2023\IA\MineIntoTheDeep\IA_zinzin\obj\Debug\net6.0\IA_zinzin.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - Université de Bourgogne\Documents\IUT\24h IUT 2023\IA\MineIntoTheDeep\IA_zinzin\obj\Debug\net6.0\ref\IA_zinzin.dll
