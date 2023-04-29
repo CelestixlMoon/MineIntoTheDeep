@@ -16,29 +16,29 @@ namespace IA_zinzin.Action
             return messageaEnvoye;
         }
 
-        public string Deplacer()
+        public string DeplacerNain(int numNain, int x, int y)
         {
-            return messageaEnvoye;
+            return "DEPLACER|" + numNain + "|" + x + "|" + y;
         }
 
-        public string Retirer()
+        public string RetiterNaim(int numNain)
         {
-            return messageaEnvoye;
+            return "RETIRER|" + numNain;
         }
 
-        public string Embaucher()
+        public string Embaucher(int numNain)
         {
-            return messageaEnvoye;
+            return "EMBAUCHER";
         }
 
-        public string Ameliorer()
+        public string Ameliorer(int numNain)
         {
-            return messageaEnvoye;
+            return "AMELIORER|" + numNain;
         }
 
-        public string Saboter()
+        public string Saboter(int numPlayer)
         {
-            return messageaEnvoye;
+            return "SABOTER|" + numPlayer;
         }
 
         public string Scores()
