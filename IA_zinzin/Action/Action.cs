@@ -42,7 +42,7 @@ namespace IA_zinzin.Action
         /// </summary>
         /// <param name="numNain"></param>
         /// <returns></returns>
-        public string RetiterNain(int numNain)
+        public string RetirerNain(int numNain)
         {
             return "RETIRER|" + numNain;
         }
