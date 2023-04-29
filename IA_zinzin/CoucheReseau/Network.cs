@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace IA_zinzin.CoucheReseau
 {   
-    internal class Network
+    public class Network
     {
         private TcpClient client; //canal de discussion entre le client et le serveur 
         private StreamReader fluxEntrant; //objet en charge d’écouter ce que le serveur dit (écouter)
