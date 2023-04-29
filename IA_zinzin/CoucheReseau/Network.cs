@@ -36,7 +36,7 @@ namespace IA_zinzin.CoucheReseau
         /// Permet de lire le message du serveur et le renvoie et l'écrit dans la console
         /// </summary>
         /// <returns>message du serveur</returns>
-        public string LectureMessageRecu()
+        public static string LectureMessageRecu()
         {
             string messageRecu = "";
             // Attendre jusqu'à ce que le serveur envoie un message initial
@@ -50,7 +50,7 @@ namespace IA_zinzin.CoucheReseau
         /// Envoie un message au serveur et l'écrit dans la console
         /// </summary>
         /// <param name="messageAEnvoyer">message à envoyer au serveur</param>
-        public void EnvoyerMessage(string messageAEnvoyer)
+        public static void EnvoyerMessage(string messageAEnvoyer)
         {
             //Envoie du message de réponse
             this.fluxSortant.WriteLine(messageAEnvoyer);

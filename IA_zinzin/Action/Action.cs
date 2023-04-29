@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using IA_zinzin.CoucheReseau;
+using static IA_zinzin.CoucheReseau.Network;
 
 namespace IA_zinzin.Action
 {
@@ -10,10 +12,17 @@ namespace IA_zinzin.Action
     /// Genere un string de l'action demandé
     /// </summary>
     public class Action
+
     {
+
+
+        //En gros ces fonctions ne font pas les actions mais elle génere le string qui réalise l'action
+        //Pour Deplacer un nain par exemple il fait :
+        //EnvoyerMessage(DeplacerNain(0,1,2));
         public string Carte()
         {
-            return messageaEnvoye;
+            EnvoyerMessage("CARTE");
+            return LectureMessageRecu();
         }
 
         public string DeplacerNain(int numNain, int x, int y)
@@ -21,9 +30,15 @@ namespace IA_zinzin.Action
             return "DEPLACER|" + numNain + "|" + x + "|" + y;
         }
 
-        public string RetiterNaim(int numNain)
+        public string RetiterNain(int numNain)
         {
             return "RETIRER|" + numNain;
+        }
+
+        public void RetirerTout()
+        {
+            EnvoyerMessage("RETIRER|1");
+            EnvoyerMessage("RETIRER|2");
         }
 
         public string Embaucher(int numNain)
@@ -43,12 +58,14 @@ namespace IA_zinzin.Action
 
         public string Scores()
         {
-            return messageaEnvoye;
+            EnvoyerMessage("SCORES");
+            return LectureMessageRecu();
         }
 
         public string Sonar()
         {
-            return messageaEnvoye;
+            EnvoyerMessage("SONAR");
+            return LectureMessageRecu();
         }
 
 
