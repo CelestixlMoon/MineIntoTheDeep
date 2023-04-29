@@ -68,6 +68,10 @@ namespace IA_zinzin.Action
             return LectureMessageRecu();
         }
 
+        public void FinDeTour()
+        {
+            EnvoyerMessage("FIN_TOUR");
+        }
 
     }
 }
